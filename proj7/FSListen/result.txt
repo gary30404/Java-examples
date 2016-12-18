@@ -1,0 +1,9 @@
+dir: 
+    dir1: 
+        file1.txt
+        file2.txt
+    dir2: 
+        file3.txt
+    dir3: 
+    file4.txt
+    file5.txt
